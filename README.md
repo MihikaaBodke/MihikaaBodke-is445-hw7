@@ -1,4 +1,4 @@
-# Homework 7 – IS445
+# Homework 5 – IS445
 
 I used Altair to create two visualizations using the Bigfoot sightings dataset.
 
