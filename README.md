@@ -9,4 +9,4 @@ I used Altair to create two visualizations using the Bigfoot sightings dataset.
 
 ### Links:
 - [Dataset](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv)  
-- [Notebook](link-to-your-notebook-on-GitHub)
+- [Notebook](https://github.com/MihikaaBodke/MihikaaBodke-is445-hw7/blob/main/Workbook.ipynb)
